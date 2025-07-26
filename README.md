@@ -59,7 +59,7 @@ I’m a multidisciplinary designer working at the confluence of design, technolo
 ## 📬 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anuranan-kakati)
-- 🌐 [Portfolio Website](https://your-website-link.com) *(update this if available)*
+- 🌐 [Portfolio Website]([https://your-website-link.com)
 - ✉️ anuranankakati[at]gmail[dot]com  
 - 🧪 Member of [Upside Down Labs](https://github.com/upsidedownlabs)
 
